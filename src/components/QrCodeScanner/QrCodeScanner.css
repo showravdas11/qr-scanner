@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.scan-head {
+  text-align: center;
+  color: white;
+  padding: 15px;
+  margin: 50px;
+  background-color: rgb(27, 196, 32);
+}
+.camera-container {
+  background-color: rgb(255, 255, 255);
+}
+.camera {
+  width: 50%;
+  margin-left: 350px;
+}
+.scan-result {
+  text-align: center;
+  color: white;
+  padding: 15px;
+  margin: 50px;
+  background-color: rgb(27, 196, 32);
+}
+.link-btn {
+  padding: 15px;
+  background-color: rgb(27, 196, 32);
+  color: white;
+  font-weight: bold;
+  border: none;
+}
